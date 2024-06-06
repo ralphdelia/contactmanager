@@ -1,9 +1,9 @@
 [
   {
-    "full_name": "ralph",
+    "full_name": "ralph delia",
     "phone_number": "1234",
     "email": "abc123@abc",
-    "tags": "student",
+    "tags": "student,this is a tag",
     "id": 1
   }
 ]
